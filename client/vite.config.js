@@ -13,4 +13,9 @@ export default defineConfig({
       },
     },
   },
+  preview: {
+    host: '0.0.0.0',
+    port: 4173,
+    allowedHosts: ['cab-booking-1-kos5.onrender.com'],
+  },
 });
