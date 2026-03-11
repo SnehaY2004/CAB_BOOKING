@@ -1,6 +1,6 @@
 # CabBook – Cab Booking Website
 
-A full-stack cab booking app with **MongoDB**, **Node/Express**, and **React**.
+A full-stack cab booking app with **MongoDB**, **Node/Express**, and **Reactjs**.
 
 ## What you need
 
