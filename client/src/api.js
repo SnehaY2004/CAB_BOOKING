@@ -1,4 +1,4 @@
-const API_BASE = import.meta.env.VITE_API_URL || "";
+const API_BASE = "https://cab-booking-uk6z.onrender.com/api";
 
 function getServerHint() {
   const base = API_BASE || "proxy (see vite.config proxy target)";
